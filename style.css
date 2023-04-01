@@ -1,0 +1,17 @@
+body {
+    background-color: #8FBC8F;
+}
+
+#guzik,
+input {
+    background-color: #EEE8AA;
+    border-radius: 20px;
+    border: none;
+}
+
+p {
+    font-size: 8px;
+    margin: none;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0%;
+}
